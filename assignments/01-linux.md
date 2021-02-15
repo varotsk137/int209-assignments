@@ -2,7 +2,8 @@
 
 ## 1. Excercise File
 
-```mkdir wipcamp12
+```bash
+mkdir wipcamp12
 cd wipcamp12/
 mkdir programmer website ux-ui
 touch slide01.txt
